@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\Deal With String\Deal With String\bin\Debug\Deal With String.exe.config
+C:\Users\Owner\source\repos\Deal With String\Deal With String\bin\Debug\Deal With String.exe
+C:\Users\Owner\source\repos\Deal With String\Deal With String\bin\Debug\Deal With String.pdb
+C:\Users\Owner\source\repos\Deal With String\Deal With String\obj\Debug\Deal With String.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Deal With String\Deal With String\obj\Debug\Deal With String.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Deal With String\Deal With String\obj\Debug\Deal With String.exe
+C:\Users\Owner\source\repos\Deal With String\Deal With String\obj\Debug\Deal With String.pdb
